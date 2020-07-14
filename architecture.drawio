@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T16:53:58.756Z" agent="5.0 (X11)" etag="MYTr31QorDXnKqP6VX15" version="13.4.3" type="github"><diagram id="lejjNn5GJbrfdVNx11HZ" name="Page-1">7Zlbc6M2FMc/jadPYQQCjB99iXen023T+mEfO9jItmYFYoWwnXz6SiBxk5zLxE7S2eQhg49kJM7/x7nIIzhPT19YnO+/0QSRkQeS0wguRp4XhZH4Lw33tcEPYW3YMZzUJrc1rPADUkagrCVOUNGbyCklHOd944ZmGdrwni1mjB7707aU9FfN4x0yDKtNTEzrd5zwvXosb9zavyK82+uV3XBSj6SxnqyepNjHCT12TPB2BOeMUl5fpac5ItJ32i/195ZnRpuNMZTx53zh9t+bdVr62xQtb/5+8JY/QrK4UY9xiEmpHlhtlt9rD4h95/JSrBQTggjdsTgdwVmOGE4RR2w4dtcOzI57zNEqjzfyDkdBiLDteUrEJ1dcNj4B4kMSF3uU6BHO6A80p4SyahsQiL/5vBnRYkBhMT2hnHNAjKNTx6Q88wVRsUF2L6aoUahEUpS6WrRjqzkcK9u+o7fnK2OsONs1t26lEBdKjRcoE34gZUyXG/LM5wCE4VDFSyjj9aWBgUUaaJMGXEsa1yJNSMSys7W42MmLFWIHLFzrgcWfq2aU6eECiXiVxJghc0xbxNbWrW0gvfQfFlHqj3iNyB0tMMc0E0NryjlN+1LquVOCd3IOp7mhqZwXq/GNEKtChJac4EyorENr7y0F52ZoLNPTTqYEJz4WMHHiPCdiF/U+Z1tMSIceXySKTWDjKhhPvUUkd1fk9RJbfJLrX4Itbzx47ceu4xl0hZ4JVxg50ZXo8l5NVy7e8k+23pkt1x+w5Ztx643Jgs8jC5XMwhRihVSC/IpQeSZVUXgbwamNqhlYwjG8ElW+rqd1NpyYVI1tVLlOEFwrHfpPlyooS6ayGpdqkbgo8GZQblyi3OMx2yH+dGhFSa/mN53dcWZgqSy0jSEi8Dj0OwWbe9UKdxSLHbeVTdSPEN6gXiloyTZIfalb2A/vEwwqpMF9arcY96m0bh76FfIHZ8PKllb73DSyhj9LWocHLXDH1I8mTSj5B/0sR3M4mk65aARVygMbguVbX9iDT2Ord3AmJkkOqnjUZ9EIK8N4lOIkkfeYMVTgh3hd3U8Gklz6uPJ6MBsFCyurj79Cw0DQNLZqlVG3d7QFiBvgeNDtBwn3dbjqKXS7LdB1ELI1O0MMKgYmBYpLeZxQVs18yTJcFFXCAslv+3rKGgneU1QJ/3RiEv7mj8WijGZoEP6V6fmc2HotRsssafLS+Ub4AkljGCAC10waTbfUb6GulTJs5w4vFdysRKpJxePF8ScU/SyhkwZ8byZ01WBhIsEHuaLyYJszCNryZ2SQJSlPEiHJxLfp79WlzCSJCK01ZJ3EMmCo7aWkb+U0Uk1WM+pL3cwXzhPpqHqQqzFXuePjEhdNHLfHnA/bqrSDnRsBZ/KW4J0vYAwNS234K5eNQdUPCV9NOxqX7XcATnNSEybzUd2gykxVZmagAt1DIVBUIS6jvP5Ut2XOu4WzD44WDCYNSU0VbDknDIDjB2+J1jPO1/+HnbHs5Fa3thbXcmzca+rGy+XSbKYB8OeTyWVQ8IDXL34jTx+odE9eAh2LuhzAsT7+uzwJ0ScJb0zCoOr1A2u2iSw1jh8440f6o9eBMPkE4Z1Dgmc5ihUcOACaKLjhy3OD+Nj+rFv3yO1v4/D2Pw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-14T16:54:15.276Z" agent="5.0 (X11)" etag="54o8TBzTiTry4t5Tx_03" version="13.4.3" type="github">
+  <diagram id="lejjNn5GJbrfdVNx11HZ" name="Page-1">
+    <mxGraphModel dx="868" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#0000CC;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="370" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;strokeWidth=3;strokeColor=#CC0066;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="350" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-1" value="&lt;b&gt;Service DNS&lt;br&gt;secondaire&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="270" y="171.2" width="62" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-2" value="&lt;b&gt;Service DNS&lt;br&gt;primaire&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="140" y="140" width="62" height="68.8" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-3" value="&lt;b&gt;Serveur&lt;br&gt;personnel&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="468" y="390" width="72" height="61.55" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-14" value="" style="endArrow=classic;html=1;strokeColor=#0000CC;strokeWidth=3;" parent="1" target="E_-bmu4fmeF-Qz2Fk6lD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="20" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-15" value="&lt;font color=&quot;#0000CC&quot;&gt;&lt;b&gt;Requêtes DNS clientes&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E_-bmu4fmeF-Qz2Fk6lD-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.2318" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-16" value="&lt;b&gt;Réseau du fournisseur d&#39;hébergement&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="510" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-17" value="&lt;b&gt;Réseau du fournisseur &lt;br&gt;du service DNS&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="330" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-22" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Flux de MAJ des données DNS du service primaire vers les services secondaires.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="89.1" y="431.55" width="180.9" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-25" value="&lt;b&gt;&lt;u&gt;Optionnel :&lt;/u&gt; implémentation d&#39;un service DNS secondaire sur notre serveur.&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="359.55" y="300" width="350.45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;aspect=fixed;shadow=0;strokeColor=#007FFF;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="202" y="182.8" width="65.1" height="37.2" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;aspect=fixed;shadow=0;strokeColor=#007FFF;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="50" y="451.55" width="80" height="45.71" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;aspect=fixed;shadow=0;strokeColor=#007FFF;fillColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="202" y="240" width="280.03" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
