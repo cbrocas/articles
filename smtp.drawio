@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2020-07-15T17:42:56.375Z" agent="5.0 (X11)" etag="l-WsnWaDnE6XiYLv9HsC" version="13.4.3" type="github">
+  <diagram id="lejjNn5GJbrfdVNx11HZ" name="Page-1">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#0000CC;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="540" y="215" width="330" height="105.55" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#0000CC;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="60" y="215" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;strokeWidth=3;strokeColor=#CC0066;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="351.61" width="530" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-1" value="&lt;b&gt;Service DNS&lt;br&gt;secondaire&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;strokeColor=#57A2D8;aspect=fixed;fillColor=#4286C5;" parent="1" vertex="1">
+          <mxGeometry x="218" y="305" width="42" height="46.61" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-2" value="&lt;b&gt;Service DNS&lt;br&gt;primaire&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="140" y="235.01999999999998" width="32" height="35.51" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-3" value="&lt;b&gt;Serveur&lt;br&gt;personnel&lt;br&gt;Debian&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="380" width="72" height="61.55" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-16" value="&lt;b&gt;Réseau du fournisseur d&#39;hébergement&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="312" y="520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-17" value="&lt;b&gt;Réseau du fournisseur &lt;br&gt;du service DNS&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c0aj5AkgzgIFBKRIhpNa-1" value="&lt;b&gt;Serveur&lt;br&gt;tiers&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;strokeColor=#B0F373;aspect=fixed;fillColor=#007FFF;" parent="1" vertex="1">
+          <mxGeometry x="650" y="448.45" width="72" height="61.55" as="geometry" />
+        </mxCell>
+        <mxCell id="c0aj5AkgzgIFBKRIhpNa-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dashedEdgeDouble;fillColor=#000000;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="520" y="420" width="105.35" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0aj5AkgzgIFBKRIhpNa-4" value="&lt;font color=&quot;#004C99&quot;&gt;&lt;b&gt;Sauvegarde, Supervision Sécurité&lt;br&gt; et Administration Centralisée &lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="411.55" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.email;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="650" y="228" width="43" height="56.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatEdge;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="175.56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="179.1" width="112.75" height="64.43" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNW;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="179.06" width="112.83" height="64.47" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="552.67" y="93.52" width="40" height="82.01" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-7" value="&lt;b&gt;Serveur SMTP SmartHost chez &lt;br&gt;notre fournisseur&lt;br&gt; de messagerie&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="250" width="145.56" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="93.52" width="40" height="82.01" as="geometry" />
+        </mxCell>
+        <mxCell id="3gD042Vlp_LxBmRb7kvL-9" value="&lt;b&gt;Exim4&lt;/b&gt; &lt;b&gt;sur &lt;br&gt;notre serveur Debian&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
