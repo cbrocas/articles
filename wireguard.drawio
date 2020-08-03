@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T17:21:45.260Z" agent="5.0 (X11)" etag="TWtsV5b8SD2ogmR73Bzf" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T13:39:36.386Z" agent="5.0 (X11)" etag="QSZN-aEt4ARPL5NkAcH4" version="13.5.8" type="github">
   <diagram id="lejjNn5GJbrfdVNx11HZ" name="Page-1">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shadow=0;strokeWidth=3;dashed=1;strokeColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="320" y="350" width="530" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-3" value="&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;Serveur principal&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="E_-bmu4fmeF-Qz2Fk6lD-3" value="&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;host1.mondomaine.fr&lt;br&gt;Serveur principal&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="408.45" width="72" height="61.55" as="geometry" />
         </mxCell>
         <mxCell id="c0aj5AkgzgIFBKRIhpNa-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;strokeColor=#B0F373;aspect=fixed;fillColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="714" y="408.45" width="72" height="61.55" as="geometry" />
         </mxCell>
-        <mxCell id="c0aj5AkgzgIFBKRIhpNa-4" value="&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;Serveur d&#39;administration&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="c0aj5AkgzgIFBKRIhpNa-4" value="&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;host2.mondomaine.fr&lt;br&gt;&lt;/font&gt;&lt;/b&gt;Serveur d&#39;administration&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="470" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-2" value="&lt;b&gt;Adresse IP publique : 1.2.3.4&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#003366;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-2" value="&lt;b&gt;Adresse IP publique : 1.2.3.4&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="392" y="286" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-3" value="&lt;b&gt;Adresse IP publique : 1.2.3.5&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#003366;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-3" value="&lt;b&gt;Adresse IP publique : 1.2.3.5&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="610" y="286" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-14" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;direction=east;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-14" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;direction=east;" parent="1" vertex="1">
           <mxGeometry x="440" y="310" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
           <mxGeometry x="700" y="310" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-16" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.cloud_security" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-16" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.cloud_security" parent="1" vertex="1">
           <mxGeometry x="530" y="488.44999999999993" width="110" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-28" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;VPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-28" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;VPN&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="530" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-30" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#003366;fontColor=#003366;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-30" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#003366;fontColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="490" y="408.45" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-31" value="&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;Réseau privé interconnectant&lt;br&gt; les serveurs via Wireguard&amp;nbsp; adressage : 192.168.100.0/24&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-31" value="&lt;font color=&quot;#003366&quot;&gt;&lt;b&gt;Réseau privé interconnectant&lt;br&gt; les serveurs via Wireguard&amp;nbsp; adressage : 192.168.100.0/24&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="492" y="440" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;fontColor=#003366;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;fontColor=#003366;" parent="1" vertex="1">
           <mxGeometry x="571" y="640" width="49" height="100.46" as="geometry" />
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-33" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=0.591;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eLec6RA0wIpfiSp1-VCb-32" target="eLec6RA0wIpfiSp1-VCb-16">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-33" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;entryX=0.591;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eLec6RA0wIpfiSp1-VCb-32" target="eLec6RA0wIpfiSp1-VCb-16" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="370" y="520" as="sourcePoint" />
             <mxPoint x="470" y="520" as="targetPoint" />
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eLec6RA0wIpfiSp1-VCb-35" value="&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;Laptop d&#39;administration&lt;br&gt;connecté au VPN via Wireguard&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="eLec6RA0wIpfiSp1-VCb-35" value="&lt;b&gt;&lt;font color=&quot;#003366&quot;&gt;Laptop d&#39;administration&lt;br&gt;connecté au VPN via Wireguard&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="670" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
